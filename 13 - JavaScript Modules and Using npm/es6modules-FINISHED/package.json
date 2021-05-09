@@ -16,7 +16,7 @@
     "jquery": "^3.0.0",
     "jsonp": "^0.2.0",
     "lodash": "^4.13.1",
-    "slug": "^4.0.0"
+    "slug": "^5.0.0"
   },
   "devDependencies": {
     "babel-core": "6.26.3",
