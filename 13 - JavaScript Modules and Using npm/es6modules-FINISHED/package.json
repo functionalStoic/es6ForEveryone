@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.27.0",
     "base-64": "^1.0.0",
     "flickity": "^2.0.0",
     "insane": "^2.5.0",
